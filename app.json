@@ -1,26 +1,27 @@
 {
-  "name": "Asena UserBot",
-  "description": "Asena UserBot",
-  "logo": "https://i.hizliresim.com/1UoYoT.jpg",
+  "name": "Hêllẞø†",
+  "description": "Hêllẞø†",
+  "logo": "https://telegra.ph/file/7decf235312af8536e9aa.jpg",
   "keywords": [
     "telegram",
     "userbot",
-	"Asena",
+	"HELLBOT",
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/quiec/AsenaUserbot",
+  "repository": "https://github.com/HellBoy-OP/HellBot/",
   "website":   "https://quiec.tech",
-  "success_url": "https://t.me/AsenaSupport",
+  "success_url": "https://t.me/HellBot_Official",
   "stack": "container",
   "env": {
     "API_KEY": {
-      "description": "Bu değeri my.telegram.org adresinden alın.",
+      "description": "API KEY DAALO IDHAR.",
+      "value": "1754367",    
       "required": true
     },
     "API_HASH": {
-      "description": "Bu değeri my.telegram.org adresinden alın.",
+      "description": "API HASH DAALO IDHAR.",
       "required": true
     },
     "PLUGIN_CHANNEL_ID": {
@@ -59,7 +60,7 @@
     },
     "COUNTRY": {
       "description": "Ülkenizi .time ve .date komutlarında kullanılacak şekilde ayarlayın. Varsayılan olarak Türkiye ayarlanmıştır.",
-      "value": "Turkey",
+      "value": "INDIA",
       "required": false
     },
     "TZ_NUMBER": {
@@ -227,7 +228,7 @@
     },
     "LANGUAGE": {
       "description": "Botun dili. EN/TR/AZ yazabilirsiniz.",
-      "value": "TR",
+      "value": "EN",
       "required": true
     }
   },
