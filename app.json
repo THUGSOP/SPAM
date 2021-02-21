@@ -17,11 +17,12 @@
   "env": {
     "API_KEY": {
       "description": "API KEY DAALO IDHAR.",
-      "value": "1754367",    
+      "value": "1754367",                             
       "required": true
     },
     "API_HASH": {
       "description": "API HASH DAALO IDHAR.",
+      "value": "231b8cc6cca12ee51a85cf543321f476 ", 
       "required": true
     },
     "PLUGIN_CHANNEL_ID": {
