@@ -52,8 +52,7 @@
     },
     "HEROKU_APPNAME": {
       "description": "Heroku uygulama adını buraya ekleyin. UserBot güncellemelerine yardımcı olur.",
-      "value": "later"
-      "required": true
+      "required": false
     },
     "UPSTREAM_REPO_URL": {
       "description": "Fork sağlamanız durumunda repo URL'nizi buraya ekleyin. Varsayılan olarak kendi repo adresimiz eklidir.",
