@@ -39,7 +39,7 @@
     },
     "STRING_SESSION": {
       "description": "python3 GenerateStringSession.py dosyasını yerel olarak çalıştırarak bu değeri alın.",
-      "required": true
+      "required": false
     },
     "HEROKU_MEMEZ": {
       "description": "UserBot bir Heroku Dyno üzerinde çalışıyorsa, bu değer True olmalıdır.",
@@ -56,7 +56,7 @@
     },
     "UPSTREAM_REPO_URL": {
       "description": "Fork sağlamanız durumunda repo URL'nizi buraya ekleyin. Varsayılan olarak kendi repo adresimiz eklidir.",
-      "value": "https://github.com/Quiec/AsenaUserBot",
+      "value": "https://github.com/HellBoy-OP",
       "required": true
     },
     "COUNTRY": {
